@@ -50,4 +50,4 @@ int main() {
 
 }
 
-/* gcc lab04_2.c -o lab04_2 */
+/* gcc lab05_2.c -o lab05_2 */
