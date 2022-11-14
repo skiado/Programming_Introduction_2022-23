@@ -24,4 +24,4 @@ int main() {
 	return 0;
 }
 
-/* gcc lab04_4.c -o lab04_4 */
+/* gcc lab05_4.c -o lab05_4 */
