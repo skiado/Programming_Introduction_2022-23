@@ -20,4 +20,4 @@ int main(){
 	return 0;	
 }
 
-/* gcc lab04_1.c -o lab04_1 */
+/* gcc lab05_1.c -o lab05_1 */
