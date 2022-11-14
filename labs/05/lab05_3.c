@@ -32,4 +32,4 @@ int main() {
 
 }
 
-/* gcc lab04_3.c -o lab04_3 */
+/* gcc lab05_3.c -o lab05_3 */
